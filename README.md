@@ -70,8 +70,9 @@ https://www.coursera.org/learn/machine-learning
 * Community detection library: https://github.com/GiulioRossetti/cdlib
 
 # Data Visualization
-## Tools
-Google Facets: Load your csv and visualize it in different ways: https://towardsdatascience.com/visualising-machine-learning-datasets-with-googles-facets-462d923251b3, https://pair-code.github.io/facets/
+## Standalone
+* Google Facets: Load your csv and visualize it in different ways: https://towardsdatascience.com/visualising-machine-learning-datasets-with-googles-facets-462d923251b3, https://pair-code.github.io/facets/
+* For graphs: https://gephi.org
 
 ## Libaries in python
 * Simple for data exploration: https://seaborn.pydata.org
@@ -85,13 +86,14 @@ Maps:
 * https://leafletjs.com
 * https://www.mapbox.com
 
-
 Charts:
 * https://c3js.org/examples.html
 * http://nvd3.org/
 * http://dimplejs.org/ 
 (and many others)
 
+Networks/Graph:
+* https://github.com/anvaka/graph-drawing-libraries
 
 # Datasets
 
