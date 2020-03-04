@@ -59,7 +59,8 @@ https://www.coursera.org/learn/machine-learning
 * A playground to manipulate a small neural network online: https://playground.tensorflow.org
 
 ## Graph Neural Networks (GCN)
-* My introduction class: https://colab.research.google.com/drive/1kpjQ2q_Qn4mHm8Y2_S1ycN_GuoQSltE6
+* My introduction notebook: https://colab.research.google.com/drive/1kpjQ2q_Qn4mHm8Y2_S1ycN_GuoQSltE6
+* A short introduction of the basics: https://tkipf.github.io/graph-convolutional-networks/
 * A library: https://www.dgl.ai
 * List of references: https://github.com/nnzhan/Awesome-Graph-Neural-Networks
 
