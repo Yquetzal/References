@@ -44,8 +44,8 @@ If you want to code a large projects (e.g., >1000 lines of codes), an IDE might 
 https://scikit-learn.org/stable/
 
 #### For visualization
-* Simple for data exploration: https://seaborn.pydata.org
-* Interactive: https://docs.bokeh.org/en/latest/docs/gallery.html
+* See the visuaization section below
+
 # Machine learning
 ## Introduction to machine learning in general
 * General introduction
@@ -73,11 +73,25 @@ https://www.coursera.org/learn/machine-learning
 ## Tools
 Google Facets: Load your csv and visualize it in different ways: https://towardsdatascience.com/visualising-machine-learning-datasets-with-googles-facets-462d923251b3, https://pair-code.github.io/facets/
 
-## Libraries
+## Libaries in python
+* Simple for data exploration: https://seaborn.pydata.org
+* Interactive: https://docs.bokeh.org/en/latest/docs/gallery.html
+
+## Libraries in JS
+Generic, animated...:
+* https://d3js.org (custom visualization)
+
 Maps:
 * https://leafletjs.com
 * https://www.mapbox.com
-* https://d3js.org (custom visualization) 
+
+
+Charts:
+* https://c3js.org/examples.html
+* http://nvd3.org/
+* http://dimplejs.org/ 
+(and many others)
+
 
 # Datasets
 
