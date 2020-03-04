@@ -54,8 +54,9 @@ https://vas3k.com/blog/machine_learning/
 https://www.coursera.org/learn/machine-learning
 
 ## Introduction to Deep learning
-https://www.coursera.org/specializations/deep-learning
+* https://www.coursera.org/specializations/deep-learning
 (note: the course is free, but when registering you will need to click on a discrete link to "attend" instead of "registering" to the class...)
+* A playground to manipulate a small neural network online: https://playground.tensorflow.org
 
 ## Graph Neural Networks (GCN)
 * My introduction class: https://colab.research.google.com/drive/1kpjQ2q_Qn4mHm8Y2_S1ycN_GuoQSltE6
