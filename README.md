@@ -41,7 +41,12 @@ If you want to code a large projects (e.g., >1000 lines of codes), an IDE might 
 
 ## Libraries
 #### For machine learning:
-https://scikit-learn.org/stable/
+* https://scikit-learn.org/stable/
+* https://pandas.pydata.org
+
+#### For network science:
+* https://networkx.github.io
+* https://igraph.org/python/
 
 #### For visualization
 * See the visuaization section below
