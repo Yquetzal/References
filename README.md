@@ -1,3 +1,6 @@
+# List of references useful for my classes involving data mining, machine learning, network science.
+For details on classes, check my website http://cazabetremy.fr
+
 - [References](#references)
 - [Introduction to Python](#introduction-to-python)
   * [Getting started](#getting-started)
