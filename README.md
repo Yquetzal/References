@@ -1,5 +1,23 @@
-# References
-
+- [References](#references)
+- [Introduction to Python](#introduction-to-python)
+  * [Getting started](#getting-started)
+  * [Programmig Tools](#programmig-tools)
+    + [Online notebooks](#online-notebooks)
+    + [IDE](#ide)
+  * [Libraries](#libraries)
+      - [For machine learning:](#for-machine-learning-)
+      - [For visualization](#for-visualization)
+- [Machine learning](#machine-learning)
+  * [Introduction to machine learning in general](#introduction-to-machine-learning-in-general)
+  * [Introduction to Deep learning](#introduction-to-deep-learning)
+  * [Graph Neural Networks (GCN)](#graph-neural-networks--gcn-)
+  * [Network Science](#network-science)
+- [Data Visualization](#data-visualization)
+  * [Tools](#tools)
+  * [Libraries](#libraries-1)
+- [Datasets](#datasets)
+  * [General](#general)
+  * [Networks](#networks)
 # Introduction to Python
 
 ## Getting started
@@ -55,8 +73,7 @@ Google Facets: Load your csv and visualize it in different ways: https://towards
 Maps:
 * https://leafletjs.com
 * https://www.mapbox.com
-custom visualization
-* https://d3js.org
+* https://d3js.org (custom visualization) 
 
 # Datasets
 
