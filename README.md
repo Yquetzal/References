@@ -59,9 +59,14 @@ https://vas3k.com/blog/machine_learning/
 https://www.coursera.org/learn/machine-learning
 
 ## Introduction to Deep learning
+These are just examples of classes, it is very easy to find other classes just by googling it...
 * https://www.coursera.org/specializations/deep-learning
 (note: the course is free, but when registering you will need to click on a discrete link to "attend" instead of "registering" to the class...)
 * A playground to manipulate a small neural network online: https://playground.tensorflow.org
+* Convolution Neural Networks (GCN): https://medium.com/@purnasaigudikandula/a-beginner-intro-to-convolutional-neural-networks-684c5620c2ce
+* Generative Adversarial Networks (GAN): https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29
+* Variational Autoencoders (VAE): https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73
+* Recurrent Neural Networks (RNN): https://medium.com/@dhartidhami/recurrent-neural-networks-eb145c0c4624
 
 ## Graph Neural Networks (GCN)
 * My introduction notebook: https://colab.research.google.com/drive/1kpjQ2q_Qn4mHm8Y2_S1ycN_GuoQSltE6
