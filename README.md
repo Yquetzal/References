@@ -67,8 +67,8 @@ These are just examples of classes, it is very easy to find other classes just b
 * Generative Adversarial Networks (GAN): https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29
 * Variational Autoencoders (VAE): https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73
 * Recurrent Neural Networks (RNN): https://towardsdatascience.com/learn-how-recurrent-neural-networks-work-84e975feaaf7
-* * Gated Recurrent Unit (GRU): https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be
-
+ * Long Short Term Memory networks (LSTM): http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+ * Gated Recurrent Unit (GRU): https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be
 ## Graph Neural Networks (GCN)
 * My introduction notebook: https://colab.research.google.com/drive/1kpjQ2q_Qn4mHm8Y2_S1ycN_GuoQSltE6
 * A short introduction of the basics: https://tkipf.github.io/graph-convolutional-networks/
