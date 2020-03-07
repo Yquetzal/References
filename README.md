@@ -69,6 +69,7 @@ These are just examples of classes, it is very easy to find other classes just b
 * Recurrent Neural Networks (RNN): https://towardsdatascience.com/learn-how-recurrent-neural-networks-work-84e975feaaf7
    * Long Short Term Memory networks (LSTM): http://colah.github.io/posts/2015-08-Understanding-LSTMs/
    * Gated Recurrent Unit (GRU): https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be
+       * Seq2Seq and attention mechanism: https://towardsdatascience.com/day-1-2-attention-seq2seq-models-65df3f49e263
 * Pooling: https://machinelearningmastery.com/pooling-layers-for-convolutional-neural-networks/
 ## Graph Neural Networks (GCN)
 * My introduction notebook: https://colab.research.google.com/drive/1kpjQ2q_Qn4mHm8Y2_S1ycN_GuoQSltE6
